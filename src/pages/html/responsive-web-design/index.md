@@ -12,4 +12,10 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 
+<!-- First Example contribution -->
 
+## Responsive Content
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
